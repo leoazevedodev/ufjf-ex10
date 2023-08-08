@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1688238907 source:c:\users\leona\documents\ufjf\ed\ex10 - arvore binaria\arvbin.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<sstream>
+	"ArvBin.h"
+
+1688234582 c:\users\leona\documents\ufjf\ed\ex10 - arvore binaria\arvbin.h
+	"NoArv.h"
+
+1529358780 c:\users\leona\documents\ufjf\ed\ex10 - arvore binaria\noarv.h
+
+1688237426 source:c:\users\leona\documents\ufjf\ed\ex10 - arvore binaria\main.cpp
+	<iostream>
+	"ArvBin.h"
+

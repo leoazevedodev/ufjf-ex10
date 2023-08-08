@@ -1,0 +1,42 @@
+10, 5, 3, null, null, null, 8, null, null
+
+      10
+     /  \
+    5    8
+   /    / \
+  3    NULL NULL
+ / \
+NULL NULL
+
+
+10, 5, null, null, 8, null, null
+
+    10
+   /  \
+  5    8
+ / \  / \
+
+10, 5, 2, null, null, 4, null, null, 8, 6, null, 7, null, null, null
+
+               10
+             /     \
+            5       8
+           / \     / \
+          2   4   6   NULL
+         / \     / \
+     NULL NULL  7   NULL
+
+
+
+        15
+       /  \
+      9    20
+     / \   / \
+    7  11 18 24
+   / \   / \
+  6   8 17 19
+       \
+        10
+         \
+          12
+
